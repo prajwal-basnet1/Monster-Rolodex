@@ -1,0 +1,12 @@
+.searchbox{
+
+    display: block;
+    margin:0 auto;
+    margin-bottom: 20px;
+    margin-top:10px;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 20px;
+    outline: none;
+    
+}
